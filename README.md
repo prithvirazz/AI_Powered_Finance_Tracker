@@ -4,6 +4,13 @@ FinSight AI is a full-stack AI-powered finance and expense tracking platform bui
 
 The platform helps users track income and expenses, analyze monthly financial behavior, set budgets, and interact with an AI assistant for finance-related queries.
 
+## Deployment Links
+
+- Frontend Application: https://ai-powered-finance-tracker-delta.vercel.app
+- Backend API: https://ai-powered-finance-tracker-backend-5ud4.onrender.com
+- API Documentation: https://ai-powered-finance-tracker-backend-5ud4.onrender.com/docs
+- Sample Login: username - u1@gmail.com, password - 123456
+
 ## Key Features
 
 * User signup and login with JWT authentication
