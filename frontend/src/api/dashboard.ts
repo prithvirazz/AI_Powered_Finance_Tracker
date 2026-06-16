@@ -1,4 +1,4 @@
-import api from 'C:/Users/prith/OneDrive/Desktop/Projects/finsight-ai/frontend/src/api/client'
+import api from './client'
 
 export type DashboardSummary = {
   total_income: number
